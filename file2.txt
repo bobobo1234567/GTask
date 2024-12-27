@@ -1,2 +1,0 @@
-Hello from File2.
-Another file to test this task completion.
